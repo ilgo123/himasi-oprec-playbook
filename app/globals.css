@@ -10,10 +10,16 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  
+  /* --- Tambahkan Warna Brand HIMASI di sini --- */
+  --color-himasi-blue: #1C4B82;
+  --color-himasi-orange: #DD6B4D;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
+    /* Jika kamu ingin website punya versi gelap (Dark Mode), 
+       warnanya diatur di sini. Untuk sekarang kita biarkan default. */
     --background: #0a0a0a;
     --foreground: #ededed;
   }
@@ -23,4 +29,5 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  scroll-behavior: smooth; /* Tambahan agar scroll antar section lebih mulus */
 }
