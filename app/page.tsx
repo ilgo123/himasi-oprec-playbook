@@ -56,10 +56,10 @@ const playbookData = [
     skills: ["Manajemen Keuangan", "Ms. Excel", "Integritas", "Analisis Anggaran"],
     description: "Treasurer bertanggung jawab atas pengelolaan keuangan HIMASI. memiliki tugas untuk mencatat pemasukan dan pengeluaran, menyusun laporan keuangan.",
     tasks: [
-      "Mencatat setiap arus kas masuk dan keluar secara transparan di buku kas.",
-      "Berkoordinasi dengan ketua pelaksana untuk budgeting anggaran setiap acara.",
-      "Menagih dan mengelola uang kas pengurus secara berkala.",
-      "Menyusun laporan keuangan bulanan untuk dilaporkan ke organisasi."
+      "Mendokumentasikan setiap dana masuk dan keluar secara mendalam untuk menjamin transparansi.",
+      "Menjadi mitra strategis dalam menyusun skema anggaran yang realistis untuk setiap kegiatan.",
+      "Mengelola sirkulasi uang kas pengurus secara berkala.",
+      "Menyusun laporan keuangan  yang dapat dipertanggungjawabkan setiap bulannya untuk dilaporkan."
     ],
     mascotOutfit: Crown,
     mascotQuote: "Uang kas aman terkendali boss! 💸👑"
@@ -149,14 +149,14 @@ const playbookData = [
     tagline: "Wajah dan Suara Organisasi",
     themeColor: "#0891B2", 
     bgParticles: [Globe, Radio, Network],
-    skills: ["Public Speaking", "Networking", "Tata Krama", "Manajemen Relasi"],
+    skills: ["Public Speaking, Networking, Copywriting, Tata Krama & Diplomasi, Manajemen Relasi, Social Awareness"],
     description: "Penghubung antara HIMASI dan pihak eksternal dengan membangun komunikasi yang efektif serta menjalin kerja sama.",
     keyProgram: "SGTS & VISIT COMPANY",
     tasks: [
-      "Mengatur program kerja unggulan 'Visit Company' dan 'SI Goes To School'.",
-      "Menjaga hubungan harmonis dengan Himpunan Jurusan lain dan BEM STT NF.",
-      "Menjadi representasi HIMASI saat menerima kunjungan studi banding tamu.",
-      "Menyusun dan merawat database relasi eksternal secara profesional."
+      "Mengelola jadwal dan menugaskan anggota sebagai delegasi resmi HIMASI untuk menghadiri undangan acara dari himpunan, ormawa, atau UKM lain.",
+      "Menjadi inisiator dan fasilitator dalam pertemuan antar-himpunan kampus lain untuk saling bertukar ilmu dan pengalaman organisasi.",
+      "Menyusun caption kreatif untuk feed Instagram serta menyebarkan informasi acara melalui pesan broadcast yang efektif.",
+      "Menjaga hubungan harmonis dengan Ormawa serta UKM lain untuk memperkuat sinergi internal."
     ],
     mascotOutfit: MicVocal,
     mascotQuote: "Testing 1.. 2.. 3.. Check sound! 🎙️🌍"
