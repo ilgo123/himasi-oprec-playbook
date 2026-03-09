@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 
 // LINK GOOGLE FORM UTAMA (Ganti dengan link aslimu)
-const GFORM_LINK = "https://forms.gle/LINK_GFORM_KAMU_DISINI";
+const GFORM_LINK = "https://bit.ly/OpenRecruitmentOrmawa2026";
 
 const playbookData = [
   {
