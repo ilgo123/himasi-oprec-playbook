@@ -73,7 +73,8 @@ const playbookData = [
     bgParticles: [Shield, Scale, MessageSquareWarning],
     skills: ["Empati", "Problem Solving", "Komunikasi", "Negosiasi"],
     description: "Memberikan layanan serta mengupayakan penyelesaian permasalahan akademik mahasiswa Sistem Informasi.",
-    keyProgram: "SI CARE",
+    // keyProgram: "SI CARE",
+    keyProgram: "",
     tasks: [
       "Menjalankan program SI CARE untuk melayani keluh kesah mahasiswa SI.",
       "Mendampingi mahasiswa yang mengalami kesulitan dalam proses akademik.",
@@ -92,9 +93,9 @@ const playbookData = [
     bgParticles: [Rocket, BookOpenCheck, BrainCircuit],
     skills: ["Project Management", "Riset Akademik", "Event Organizing"],
     description: "Bertugas untuk pengembangan diri mahasiswa Sistem Informasi dalam bidang akademik maupun non-akademik.",
-    keyProgram: "SI FEST & OSJUR",
+    keyProgram: "Visi Company",
     tasks: [
-      "Mengeksekusi program kerja unggulan seperti SI FEST dan Kaderisasi OSJUR.",
+      "Mengatur program kerja unggulan 'Visit Company'",
       "Mengelola fasilitas kelompok belajar (Study Club) untuk 3 peminatan Sistem Informasi.",
       "Mengadakan bootcamp, workshop, atau pelatihan hardskill dan softskill.",
       "Berkoordinasi dengan dosen/praktisi untuk menjadi pemateri pengembangan."
@@ -151,7 +152,7 @@ const playbookData = [
     bgParticles: [Globe, Radio, Network],
     skills: ["Public Speaking, Networking, Copywriting, Tata Krama & Diplomasi, Manajemen Relasi, Social Awareness"],
     description: "Penghubung antara HIMASI dan pihak eksternal dengan membangun komunikasi yang efektif serta menjalin kerja sama.",
-    keyProgram: "SGTS & VISIT COMPANY",
+    keyProgram: "SGTS (SI Goes To School) & SI CARE",
     tasks: [
       "Mengelola jadwal dan menugaskan anggota sebagai delegasi resmi HIMASI untuk menghadiri undangan acara dari himpunan, ormawa, atau UKM lain.",
       "Menjadi inisiator dan fasilitator dalam pertemuan antar-himpunan kampus lain untuk saling bertukar ilmu dan pengalaman organisasi.",
@@ -172,7 +173,6 @@ const playbookData = [
     description: "Menciptakan dan mengembangkan lingkungan kepengurusan HIMASI yang harmonis, nyaman, serta mendukung kolaborasi.",
     tasks: [
       "Merancang acara internal bonding (Makrab/Upgrading) pengurus HIMASI.",
-      "Memantau KPI (Key Performance Indicator) kinerja setiap staff dan divisi.",
       "Menjadi mediator netral jika terjadi konflik internal antar pengurus.",
       "Memastikan kesejahteraan mental dan keaktifan seluruh anggota pengurus."
     ],
